@@ -1,0 +1,14 @@
+C:\Users\theki\OneDrive\Documents\C#\MullGame\bin\Debug\net10.0\MullGame.exe
+C:\Users\theki\OneDrive\Documents\C#\MullGame\bin\Debug\net10.0\MullGame.deps.json
+C:\Users\theki\OneDrive\Documents\C#\MullGame\bin\Debug\net10.0\MullGame.runtimeconfig.json
+C:\Users\theki\OneDrive\Documents\C#\MullGame\bin\Debug\net10.0\MullGame.dll
+C:\Users\theki\OneDrive\Documents\C#\MullGame\bin\Debug\net10.0\MullGame.pdb
+C:\Users\theki\OneDrive\Documents\C#\MullGame\obj\Debug\net10.0\MullGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theki\OneDrive\Documents\C#\MullGame\obj\Debug\net10.0\MullGame.AssemblyInfoInputs.cache
+C:\Users\theki\OneDrive\Documents\C#\MullGame\obj\Debug\net10.0\MullGame.AssemblyInfo.cs
+C:\Users\theki\OneDrive\Documents\C#\MullGame\obj\Debug\net10.0\MullGame.csproj.CoreCompileInputs.cache
+C:\Users\theki\OneDrive\Documents\C#\MullGame\obj\Debug\net10.0\MullGame.dll
+C:\Users\theki\OneDrive\Documents\C#\MullGame\obj\Debug\net10.0\refint\MullGame.dll
+C:\Users\theki\OneDrive\Documents\C#\MullGame\obj\Debug\net10.0\MullGame.pdb
+C:\Users\theki\OneDrive\Documents\C#\MullGame\obj\Debug\net10.0\MullGame.genruntimeconfig.cache
+C:\Users\theki\OneDrive\Documents\C#\MullGame\obj\Debug\net10.0\ref\MullGame.dll
