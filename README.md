@@ -58,7 +58,9 @@ The game uses a raycasting algorithm to simulate 3D:
 - Line-of-sight is calculated using angle + obstruction checks
 
 ---
-
+<p align="center">
+  <img src="gameplay.png" width="800"/>
+</p>
 ## ⚙️ Setup & Run
 
 ```bash
@@ -66,7 +68,5 @@ git clone https://github.com/dorien1p/Stealth-Game-.git
 cd Stealth-MKIII
 dotnet run
 
-<p align="center">
-  <img src="gameplay.png" width="800"/>
-</p>
+
 
