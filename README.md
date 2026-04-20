@@ -66,5 +66,7 @@ git clone https://github.com/dorien1p/Stealth-Game-.git
 cd Stealth-MKIII
 dotnet run
 
-<img width="1283" height="751" alt="image" src="https://github.com/user-attachments/assets/372f7e12-bfd6-4b1c-bf90-f7b2790c6c1d" />
+<p align="center">
+  <img src="gameplay.png" width="800"/>
+</p>
 
